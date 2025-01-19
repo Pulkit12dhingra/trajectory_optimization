@@ -1,18 +1,15 @@
 # Trajectory Optimization
 
-Welcome to the Trajectory Optimization project! This repository contains code and resources for optimizing the trajectories of celestial bodies.
+Welcome to the Trajectory Optimization project! This repository contains code and resources for optimizing the trajectories of probes.
 
 ## Project Structure
 
-- **data/**: Contains datasets used for trajectory calculations.
-- **scripts/**: Includes Python scripts for performing trajectory optimization.
 - **notebooks/**: Jupyter notebooks for interactive analysis and visualization.
-    - **01_data_exploration.ipynb**: Notebook for exploring and visualizing the datasets.
-    - **02_initial_trajectory.ipynb**: Notebook for setting up and visualizing initial trajectory parameters.
-    - **03_optimization.ipynb**: Notebook for running and analyzing trajectory optimization algorithms.
-    - **04_results_analysis.ipynb**: Notebook for analyzing and visualizing the results of the optimization.
-- **results/**: Directory for storing output results and plots.
+    - **Minimum Fuel Orbit Transfer Optimization.ipynb**: This notebook addresses the problem of optimizing the trajectory of a spacecraft for a minimum fuel orbit transfer from Low Earth Orbit (LEO) to Geostationary Earth Orbit (GEO). The optimization problem involves determining the optimal thrust and thrust angle profiles that minimize fuel consumption while   satisfying the spacecraft's dynamic constraints and boundary conditions.
+    - **Interplanetary Trajectory Optimization.ipynb**:The goal is to transfer a spacecraft from Earth's orbit to Jupiter's orbit, minimizing the total transfer time. The spacecraft uses a low-thrust propulsion system, and the trajectory is optimized to satisfy physical constraints.
+    - **Solar Sail Trajectory Optimization.ipynb**: The goal is to determine the optimal trajectory for a solar sail spacecraft to transfer from a Low Earth Orbit (LEO) to a Highly Elliptical Orbit (HEO) while minimizing the time required. The spacecraft is propelled by the pressure of sunlight, and the trajectory is governed by the sail orientation angle.
 
+   
 ## Getting Started
 
 1. Clone the repository:
