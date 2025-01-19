@@ -39,11 +39,7 @@ python scripts/optimize_trajectory.py
 
 We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or suggestions, please open an issue or contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please open an issue or contact us at [pulkit12dhingra@example.com](mailto:pulkit12dhingra@example.com).
 
