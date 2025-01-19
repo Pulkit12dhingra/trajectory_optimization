@@ -17,7 +17,7 @@ Welcome to the Trajectory Optimization project! This repository contains code an
 
 1. Clone the repository:
         ```bash
-        git clone https://github.com/yourusername/trajectory_optimization.git
+        https://github.com/Pulkit12dhingra/trajectory_optimization.git
         ```
 2. Navigate to the project directory:
         ```bash
