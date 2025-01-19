@@ -9,28 +9,6 @@ Welcome to the Trajectory Optimization project! This repository contains code an
     - **Interplanetary Trajectory Optimization.ipynb**:The goal is to transfer a spacecraft from Earth's orbit to Jupiter's orbit, minimizing the total transfer time. The spacecraft uses a low-thrust propulsion system, and the trajectory is optimized to satisfy physical constraints.
     - **Solar Sail Trajectory Optimization.ipynb**: The goal is to determine the optimal trajectory for a solar sail spacecraft to transfer from a Low Earth Orbit (LEO) to a Highly Elliptical Orbit (HEO) while minimizing the time required. The spacecraft is propelled by the pressure of sunlight, and the trajectory is governed by the sail orientation angle.
 
-   
-## Getting Started
-
-1. Clone the repository:
-        ```bash
-        https://github.com/Pulkit12dhingra/trajectory_optimization.git
-        ```
-2. Navigate to the project directory:
-        ```bash
-        cd trajectory_optimization
-        ```
-3. Install the required dependencies:
-        ```bash
-        pip install -r requirements.txt
-        ```
-
-## Usage
-
-Run the main optimization script:
-```bash
-python scripts/optimize_trajectory.py
-```
 
 ## Contributing
 
